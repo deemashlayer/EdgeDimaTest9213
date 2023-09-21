@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeDimaTest9213
+  gitServerName: dima
+  gitUrl: https://github.com/deemashlayer/EdgeDimaTest9213
+  gitUsername: deemashlayer
+  gitToken: edge.scaffolding.EdgeDimaTest9213.dima.gitToken
+  gitBranch: main
